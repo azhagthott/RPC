@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Localidad - SQLite</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- UI Main-->
+    <string name="regiones">Regiones</string>
+    <string name="provincias">Provincias</string>
+    <string name="comunas">Comunas</string>
+
+    <string name="load_data_button">Cargar datos</string>
+
+</resources>
